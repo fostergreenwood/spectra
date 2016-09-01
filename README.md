@@ -1,7 +1,7 @@
 # Spectra of Cayley Graphs of Complex Reflection Groups
 This repository contains code used to compute eigenvalues of the adjacency, distance, and codimension matrices associated with the Cayley graph of a complex reflection group.  The code accompanies the following paper:
 
-B. Foster-Greenwood and C. Kriloff. *Spectra of Cayley graphs of complex reflection groups*. http://arxiv.org/abs/1502.07392.  Submitted, 2015.
+Foster-Greenwood, B. and Kriloff, C.: Spectra of Cayley graphs of complex reflection groups. Journal of Algebraic Combinatorics **44**(1), 33--57 (2016) [journal](http://link.springer.com/article/10.1007/s10801-015-0652-8) | [arXiv](http://arxiv.org/abs/1502.07392)
 
 
 ## Background
